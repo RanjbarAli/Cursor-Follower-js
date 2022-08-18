@@ -5,7 +5,7 @@
   "main": "cursor-follower.min.js",
   "repository":"https://github.com/ranjbarali/javascript-cursor-follower.git",
   "publishConfig": {
-    "@ranjbarali:registry": "https://npm.pkg.github.com"
+    "ranjbarali:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "Javascript",
