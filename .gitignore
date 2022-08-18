@@ -1,6 +1,5 @@
 .idea
 .gitignore
 .npmrc
-.github
 package-lock.json
 .npmignore
