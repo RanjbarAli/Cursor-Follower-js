@@ -1,11 +1,11 @@
 {
-  "name": "cursor-follower-js",
+  "name": "@ranjbarali/cursor-follower",
   "version": "1.0.0",
   "description": "A minimal javascript Cursor Follower library",
   "main": "cursor-follower.min.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ranjbarali/javascript-cursor-follower.git"
+  "repository":"https://github.com/ranjbarali/javascript-cursor-follower.git",
+  "publishConfig": {
+    "@ranjbarali:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "Javascript",
