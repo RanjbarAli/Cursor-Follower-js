@@ -1,9 +1,9 @@
 {
-  "name": "@ranjbarali/cursor-follower",
+  "name": "@ranjbarali/cursor-follower-js",
   "version": "1.0.0",
   "description": "A minimal javascript Cursor Follower library",
   "main": "cursor-follower.min.js",
-  "repository":"https://github.com/ranjbarali/javascript-cursor-follower.git",
+  "repository":"https://github.com/ranjbarali/cursor-follower-js.git",
   "publishConfig": {
     "@ranjbarali:registry": "https://npm.pkg.github.com"
   },
@@ -15,7 +15,7 @@
   "author": "Ali Ranjbar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ranjbarali/javascript-cursor-follower/issues"
+    "url": "https://github.com/ranjbarali/cursor-follower-js/issues"
   },
-  "homepage": "https://github.com/ranjbarali/javascript-cursor-follower#readme"
+  "homepage": "https://github.com/ranjbarali/cursor-follower-js#readme"
 }
