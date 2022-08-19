@@ -2,7 +2,7 @@
   "name": "@ranjbarali/cursor-follower-js",
   "version": "1.0.0",
   "description": "A minimal javascript Cursor Follower library",
-  "main": "cursor-follower.min.js",
+  "main": "index.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ranjbarali/cursor-follower-js.git"
