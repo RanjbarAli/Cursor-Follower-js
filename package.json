@@ -1,24 +1,21 @@
 {
   "name": "@ranjbarali/cursor-follower-js",
   "version": "1.0.0",
-  "description": "A minimal javascript Cursor Follower library",
-  "main": "index.min.js",
+  "description": "A minimal Cursor Follower javascript library",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ranjbarali/cursor-follower-js.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "url": "git+https://github.com/RanjbarAli/Cursor-Follower-js.git"
   },
   "keywords": [
     "Javascript",
-    "Cursor Follower",
-    "Mouse Follower"
+    "Cursor-Follower",
+    "Mouse-Follower"
   ],
-  "author": "Ali Ranjbar",
+  "author": "Ali Ranjbar <info@aliranjbar.ir> (https://aliranjbar.ir/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ranjbarali/cursor-follower-js/issues"
+    "url": "https://github.com/RanjbarAli/Cursor-Follower-js/issues"
   },
-  "homepage": "https://github.com/ranjbarali/cursor-follower-js#readme"
+  "homepage": "https://github.com/RanjbarAli/Cursor-Follower-js#readme"
 }
