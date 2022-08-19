@@ -18,5 +18,4 @@ See documentation on the [Author Site](https://packages.aliranjbar.ir/cursor-fol
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## License
-<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
